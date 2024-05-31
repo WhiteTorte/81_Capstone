@@ -1,0 +1,14 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background_color">#FFFFFF</color>
+    <color name="button_background">#FFCC00</color>
+    <color name="button_text_color">#000000</color>
+    <color name="text_color">#000000</color>
+
+    <!-- Dark Mode Colors -->
+    <color name="background_color_dark">#121212</color>
+    <color name="text_color_dark">#FFFFFF</color>
+    <color name="button_background_dark">#555555</color>
+</resources>
