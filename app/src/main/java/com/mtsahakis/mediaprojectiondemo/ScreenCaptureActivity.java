@@ -1,4 +1,4 @@
-package com.mtsahakis.mediaprojectiondemo;
+package com.example.Capstone81;
 
 import android.Manifest;
 import android.app.Activity;

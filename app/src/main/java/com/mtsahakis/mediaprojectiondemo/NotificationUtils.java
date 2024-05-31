@@ -1,4 +1,4 @@
-package com.mtsahakis.mediaprojectiondemo;
+package com.example.Capstone81;;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
